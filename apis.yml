@@ -48,7 +48,7 @@ x-domain-note: 'compaq.com resolves (A 15.72.22.98) on HP nameservers (ns1-ns6.h
   are all NXDOMAIN. Mail is fully disavowed (SPF "v=spf1 -all"); _dmarc.compaq.com CNAMEs
   to HP''s _dmarc.ext.hp.com with p=reject. No CAA and no DNSSEC. It is a defensively held
   brand domain, not a live property, and is deliberately not wired as a Website pointer.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
